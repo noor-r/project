@@ -1,0 +1,145 @@
+,actual_x,predicted_x,date,team_x,opponent_x,result_x,new_team_x,actual_y,predicted_y,team_y,opponent_y,result_y,new_team_y
+0,0,0,2022-09-04,Arsenal,Manchester Utd,L,Arsenal,1,1,Manchester United,Arsenal,W,Manchester Utd
+1,1,1,2022-09-18,Arsenal,Brentford,W,Arsenal,0,0,Brentford,Arsenal,L,Brentford
+2,1,1,2022-10-01,Arsenal,Tottenham,W,Arsenal,0,0,Tottenham Hotspur,Arsenal,L,Tottenham
+3,1,1,2022-10-09,Arsenal,Liverpool,W,Arsenal,0,0,Liverpool,Arsenal,L,Liverpool
+4,1,1,2022-10-16,Arsenal,Leeds United,W,Arsenal,0,0,Leeds United,Arsenal,L,Leeds United
+5,0,0,2022-10-23,Arsenal,Southampton,D,Arsenal,0,0,Southampton,Arsenal,D,Southampton
+6,1,1,2022-10-30,Arsenal,Nott'ham Forest,W,Arsenal,0,0,Nottingham Forest,Arsenal,L,Nottingham Forest
+7,0,0,2022-09-03,Aston Villa,Manchester City,D,Aston Villa,0,0,Manchester City,Aston Villa,D,Manchester City
+8,1,1,2022-09-16,Aston Villa,Southampton,W,Aston Villa,0,0,Southampton,Aston Villa,L,Southampton
+9,0,0,2022-10-02,Aston Villa,Leeds United,D,Aston Villa,0,0,Leeds United,Aston Villa,D,Leeds United
+10,0,0,2022-10-10,Aston Villa,Nott'ham Forest,D,Aston Villa,0,0,Nottingham Forest,Aston Villa,D,Nottingham Forest
+11,0,0,2022-10-16,Aston Villa,Chelsea,L,Aston Villa,1,1,Chelsea,Aston Villa,W,Chelsea
+12,0,0,2022-10-20,Aston Villa,Fulham,L,Aston Villa,1,1,Fulham,Aston Villa,W,Fulham
+13,1,1,2022-10-23,Aston Villa,Brentford,W,Aston Villa,0,0,Brentford,Aston Villa,L,Brentford
+14,0,0,2022-10-29,Aston Villa,Newcastle Utd,L,Aston Villa,1,1,Newcastle United,Aston Villa,W,Newcastle Utd
+15,1,1,2022-09-03,Bournemouth,Nott'ham Forest,W,Bournemouth,0,0,Nottingham Forest,Bournemouth,L,Nottingham Forest
+16,0,0,2022-09-17,Bournemouth,Newcastle Utd,D,Bournemouth,0,0,Newcastle United,Bournemouth,D,Newcastle Utd
+17,0,0,2022-10-01,Bournemouth,Brentford,D,Bournemouth,0,0,Brentford,Bournemouth,D,Brentford
+18,1,1,2022-10-08,Bournemouth,Leicester City,W,Bournemouth,0,0,Leicester City,Bournemouth,L,Leicester City
+19,0,0,2022-10-15,Bournemouth,Fulham,D,Bournemouth,0,0,Fulham,Bournemouth,D,Fulham
+20,0,0,2022-10-19,Bournemouth,Southampton,L,Bournemouth,1,0,Southampton,Bournemouth,W,Southampton
+21,0,0,2022-10-24,Bournemouth,West Ham,L,Bournemouth,1,1,West Ham United,Bournemouth,W,West Ham
+22,0,0,2022-10-29,Bournemouth,Tottenham,L,Bournemouth,1,1,Tottenham Hotspur,Bournemouth,W,Tottenham
+23,1,1,2022-09-03,Brentford,Leeds United,W,Brentford,0,0,Leeds United,Brentford,L,Leeds United
+24,0,0,2022-09-18,Brentford,Arsenal,L,Brentford,1,1,Arsenal,Brentford,W,Arsenal
+25,0,0,2022-10-01,Brentford,Bournemouth,D,Brentford,0,0,Bournemouth,Brentford,D,Bournemouth
+26,0,0,2022-10-08,Brentford,Newcastle Utd,L,Brentford,1,1,Newcastle United,Brentford,W,Newcastle Utd
+27,1,1,2022-10-14,Brentford,Brighton,W,Brentford,0,0,Brighton and Hove Albion,Brentford,L,Brighton
+28,0,0,2022-10-19,Brentford,Chelsea,D,Brentford,0,0,Chelsea,Brentford,D,Chelsea
+29,0,0,2022-10-23,Brentford,Aston Villa,L,Brentford,1,1,Aston Villa,Brentford,W,Aston Villa
+30,0,0,2022-10-29,Brentford,Wolves,D,Brentford,0,0,Wolverhampton Wanderers,Brentford,D,Wolves
+31,1,0,2022-09-04,Brighton and Hove Albion,Leicester City,W,Brighton,0,0,Leicester City,Brighton,L,Leicester City
+32,0,0,2022-10-01,Brighton and Hove Albion,Liverpool,D,Brighton,0,1,Liverpool,Brighton,D,Liverpool
+33,0,0,2022-10-08,Brighton and Hove Albion,Tottenham,L,Brighton,1,1,Tottenham Hotspur,Brighton,W,Tottenham
+34,0,0,2022-10-14,Brighton and Hove Albion,Brentford,L,Brighton,1,1,Brentford,Brighton,W,Brentford
+35,0,0,2022-10-18,Brighton and Hove Albion,Nott'ham Forest,D,Brighton,0,0,Nottingham Forest,Brighton,D,Nottingham Forest
+36,0,0,2022-10-22,Brighton and Hove Albion,Manchester City,L,Brighton,1,1,Manchester City,Brighton,W,Manchester City
+37,1,1,2022-10-29,Brighton and Hove Albion,Chelsea,W,Brighton,0,0,Chelsea,Brighton,L,Chelsea
+38,1,0,2022-09-03,Chelsea,West Ham,W,Chelsea,0,0,West Ham United,Chelsea,L,West Ham
+39,1,0,2022-10-01,Chelsea,Crystal Palace,W,Chelsea,0,0,Crystal Palace,Chelsea,L,Crystal Palace
+40,1,1,2022-10-08,Chelsea,Wolves,W,Chelsea,0,0,Wolverhampton Wanderers,Chelsea,L,Wolves
+41,1,1,2022-10-16,Chelsea,Aston Villa,W,Chelsea,0,0,Aston Villa,Chelsea,L,Aston Villa
+42,0,0,2022-10-19,Chelsea,Brentford,D,Chelsea,0,0,Brentford,Chelsea,D,Brentford
+43,0,0,2022-10-22,Chelsea,Manchester Utd,D,Chelsea,0,0,Manchester United,Chelsea,D,Manchester Utd
+44,0,0,2022-10-29,Chelsea,Brighton,L,Chelsea,1,1,Brighton and Hove Albion,Chelsea,W,Brighton
+45,0,0,2022-09-03,Crystal Palace,Newcastle Utd,D,Crystal Palace,0,0,Newcastle United,Crystal Palace,D,Newcastle Utd
+46,0,0,2022-10-01,Crystal Palace,Chelsea,L,Crystal Palace,1,0,Chelsea,Crystal Palace,W,Chelsea
+47,1,1,2022-10-09,Crystal Palace,Leeds United,W,Crystal Palace,0,0,Leeds United,Crystal Palace,L,Leeds United
+48,0,0,2022-10-15,Crystal Palace,Leicester City,D,Crystal Palace,0,0,Leicester City,Crystal Palace,D,Leicester City
+49,1,1,2022-10-18,Crystal Palace,Wolves,W,Crystal Palace,0,0,Wolverhampton Wanderers,Crystal Palace,L,Wolves
+50,0,0,2022-10-22,Crystal Palace,Everton,L,Crystal Palace,1,1,Everton,Crystal Palace,W,Everton
+51,1,1,2022-10-29,Crystal Palace,Southampton,W,Crystal Palace,0,0,Southampton,Crystal Palace,L,Southampton
+52,0,0,2022-09-03,Everton,Liverpool,D,Everton,0,0,Liverpool,Everton,D,Liverpool
+53,1,1,2022-09-18,Everton,West Ham,W,Everton,0,0,West Ham United,Everton,L,West Ham
+54,1,1,2022-10-01,Everton,Southampton,W,Everton,0,0,Southampton,Everton,L,Southampton
+55,0,0,2022-10-09,Everton,Manchester Utd,L,Everton,1,1,Manchester United,Everton,W,Manchester Utd
+56,0,0,2022-10-15,Everton,Tottenham,L,Everton,1,1,Tottenham Hotspur,Everton,W,Tottenham
+57,0,0,2022-10-19,Everton,Newcastle Utd,L,Everton,1,1,Newcastle United,Everton,W,Newcastle Utd
+58,1,1,2022-10-22,Everton,Crystal Palace,W,Everton,0,0,Crystal Palace,Everton,L,Crystal Palace
+59,0,0,2022-10-29,Everton,Fulham,D,Everton,0,0,Fulham,Everton,D,Fulham
+60,0,0,2022-09-03,Fulham,Tottenham,L,Fulham,1,1,Tottenham Hotspur,Fulham,W,Tottenham
+61,1,0,2022-09-16,Fulham,Nott'ham Forest,W,Fulham,0,0,Nottingham Forest,Fulham,L,Nottingham Forest
+62,0,0,2022-10-01,Fulham,Newcastle Utd,L,Fulham,1,1,Newcastle United,Fulham,W,Newcastle Utd
+63,0,0,2022-10-09,Fulham,West Ham,L,Fulham,1,1,West Ham United,Fulham,W,West Ham
+64,0,0,2022-10-15,Fulham,Bournemouth,D,Fulham,0,0,Bournemouth,Fulham,D,Bournemouth
+65,1,1,2022-10-20,Fulham,Aston Villa,W,Fulham,0,0,Aston Villa,Fulham,L,Aston Villa
+66,1,1,2022-10-23,Fulham,Leeds United,W,Fulham,0,0,Leeds United,Fulham,L,Leeds United
+67,0,0,2022-10-29,Fulham,Everton,D,Fulham,0,0,Everton,Fulham,D,Everton
+68,0,0,2022-09-03,Leeds United,Brentford,L,Leeds United,1,1,Brentford,Leeds United,W,Brentford
+69,0,0,2022-10-02,Leeds United,Aston Villa,D,Leeds United,0,0,Aston Villa,Leeds United,D,Aston Villa
+70,0,0,2022-10-09,Leeds United,Crystal Palace,L,Leeds United,1,1,Crystal Palace,Leeds United,W,Crystal Palace
+71,0,0,2022-10-16,Leeds United,Arsenal,L,Leeds United,1,1,Arsenal,Leeds United,W,Arsenal
+72,0,0,2022-10-20,Leeds United,Leicester City,L,Leeds United,1,1,Leicester City,Leeds United,W,Leicester City
+73,0,0,2022-10-23,Leeds United,Fulham,L,Leeds United,1,1,Fulham,Leeds United,W,Fulham
+74,1,0,2022-10-29,Leeds United,Liverpool,W,Leeds United,0,0,Liverpool,Leeds United,L,Liverpool
+75,0,0,2022-09-04,Leicester City,Brighton,L,Leicester City,1,0,Brighton and Hove Albion,Leicester City,W,Brighton
+76,0,0,2022-09-17,Leicester City,Tottenham,L,Leicester City,1,1,Tottenham Hotspur,Leicester City,W,Tottenham
+77,1,1,2022-10-03,Leicester City,Nott'ham Forest,W,Leicester City,0,0,Nottingham Forest,Leicester City,L,Nottingham Forest
+78,0,0,2022-10-08,Leicester City,Bournemouth,L,Leicester City,1,1,Bournemouth,Leicester City,W,Bournemouth
+79,0,0,2022-10-15,Leicester City,Crystal Palace,D,Leicester City,0,0,Crystal Palace,Leicester City,D,Crystal Palace
+80,1,1,2022-10-20,Leicester City,Leeds United,W,Leicester City,0,0,Leeds United,Leicester City,L,Leeds United
+81,1,1,2022-10-23,Leicester City,Wolves,W,Leicester City,0,0,Wolverhampton Wanderers,Leicester City,L,Wolves
+82,0,0,2022-10-29,Leicester City,Manchester City,L,Leicester City,1,1,Manchester City,Leicester City,W,Manchester City
+83,0,0,2022-09-03,Liverpool,Everton,D,Liverpool,0,0,Everton,Liverpool,D,Everton
+84,0,1,2022-10-01,Liverpool,Brighton,D,Liverpool,0,0,Brighton and Hove Albion,Liverpool,D,Brighton
+85,0,0,2022-10-09,Liverpool,Arsenal,L,Liverpool,1,1,Arsenal,Liverpool,W,Arsenal
+86,1,1,2022-10-16,Liverpool,Manchester City,W,Liverpool,0,0,Manchester City,Liverpool,L,Manchester City
+87,1,1,2022-10-19,Liverpool,West Ham,W,Liverpool,0,0,West Ham United,Liverpool,L,West Ham
+88,0,0,2022-10-22,Liverpool,Nott'ham Forest,L,Liverpool,1,0,Nottingham Forest,Liverpool,W,Nottingham Forest
+89,0,0,2022-10-29,Liverpool,Leeds United,L,Liverpool,1,0,Leeds United,Liverpool,W,Leeds United
+90,0,0,2022-09-03,Manchester City,Aston Villa,D,Manchester City,0,0,Aston Villa,Manchester City,D,Aston Villa
+91,1,1,2022-09-17,Manchester City,Wolves,W,Manchester City,0,0,Wolverhampton Wanderers,Manchester City,L,Wolves
+92,1,1,2022-10-02,Manchester City,Manchester Utd,W,Manchester City,0,0,Manchester United,Manchester City,L,Manchester Utd
+93,1,1,2022-10-08,Manchester City,Southampton,W,Manchester City,0,0,Southampton,Manchester City,L,Southampton
+94,0,0,2022-10-16,Manchester City,Liverpool,L,Manchester City,1,1,Liverpool,Manchester City,W,Liverpool
+95,1,1,2022-10-22,Manchester City,Brighton,W,Manchester City,0,0,Brighton and Hove Albion,Manchester City,L,Brighton
+96,1,1,2022-10-29,Manchester City,Leicester City,W,Manchester City,0,0,Leicester City,Manchester City,L,Leicester City
+97,1,1,2022-09-04,Manchester United,Arsenal,W,Manchester Utd,0,0,Arsenal,Manchester Utd,L,Arsenal
+98,0,0,2022-10-02,Manchester United,Manchester City,L,Manchester Utd,1,1,Manchester City,Manchester Utd,W,Manchester City
+99,1,1,2022-10-09,Manchester United,Everton,W,Manchester Utd,0,0,Everton,Manchester Utd,L,Everton
+100,0,0,2022-10-16,Manchester United,Newcastle Utd,D,Manchester Utd,0,0,Newcastle United,Manchester Utd,D,Newcastle Utd
+101,1,1,2022-10-19,Manchester United,Tottenham,W,Manchester Utd,0,0,Tottenham Hotspur,Manchester Utd,L,Tottenham
+102,0,0,2022-10-22,Manchester United,Chelsea,D,Manchester Utd,0,0,Chelsea,Manchester Utd,D,Chelsea
+103,1,1,2022-10-30,Manchester United,West Ham,W,Manchester Utd,0,0,West Ham United,Manchester Utd,L,West Ham
+104,0,0,2022-09-03,Newcastle United,Crystal Palace,D,Newcastle Utd,0,0,Crystal Palace,Newcastle Utd,D,Crystal Palace
+105,0,0,2022-09-17,Newcastle United,Bournemouth,D,Newcastle Utd,0,0,Bournemouth,Newcastle Utd,D,Bournemouth
+106,1,1,2022-10-01,Newcastle United,Fulham,W,Newcastle Utd,0,0,Fulham,Newcastle Utd,L,Fulham
+107,1,1,2022-10-08,Newcastle United,Brentford,W,Newcastle Utd,0,0,Brentford,Newcastle Utd,L,Brentford
+108,0,0,2022-10-16,Newcastle United,Manchester Utd,D,Newcastle Utd,0,0,Manchester United,Newcastle Utd,D,Manchester Utd
+109,1,1,2022-10-19,Newcastle United,Everton,W,Newcastle Utd,0,0,Everton,Newcastle Utd,L,Everton
+110,1,1,2022-10-23,Newcastle United,Tottenham,W,Newcastle Utd,0,0,Tottenham Hotspur,Newcastle Utd,L,Tottenham
+111,1,1,2022-10-29,Newcastle United,Aston Villa,W,Newcastle Utd,0,0,Aston Villa,Newcastle Utd,L,Aston Villa
+112,0,0,2022-09-03,Southampton,Wolves,L,Southampton,1,1,Wolverhampton Wanderers,Southampton,W,Wolves
+113,0,0,2022-09-16,Southampton,Aston Villa,L,Southampton,1,1,Aston Villa,Southampton,W,Aston Villa
+114,0,0,2022-10-01,Southampton,Everton,L,Southampton,1,1,Everton,Southampton,W,Everton
+115,0,0,2022-10-08,Southampton,Manchester City,L,Southampton,1,1,Manchester City,Southampton,W,Manchester City
+116,0,0,2022-10-16,Southampton,West Ham,D,Southampton,0,0,West Ham United,Southampton,D,West Ham
+117,1,0,2022-10-19,Southampton,Bournemouth,W,Southampton,0,0,Bournemouth,Southampton,L,Bournemouth
+118,0,0,2022-10-23,Southampton,Arsenal,D,Southampton,0,0,Arsenal,Southampton,D,Arsenal
+119,0,0,2022-10-29,Southampton,Crystal Palace,L,Southampton,1,1,Crystal Palace,Southampton,W,Crystal Palace
+120,1,1,2022-09-03,Tottenham Hotspur,Fulham,W,Tottenham,0,0,Fulham,Tottenham,L,Fulham
+121,1,1,2022-09-17,Tottenham Hotspur,Leicester City,W,Tottenham,0,0,Leicester City,Tottenham,L,Leicester City
+122,0,0,2022-10-01,Tottenham Hotspur,Arsenal,L,Tottenham,1,1,Arsenal,Tottenham,W,Arsenal
+123,1,1,2022-10-08,Tottenham Hotspur,Brighton,W,Tottenham,0,0,Brighton and Hove Albion,Tottenham,L,Brighton
+124,1,1,2022-10-15,Tottenham Hotspur,Everton,W,Tottenham,0,0,Everton,Tottenham,L,Everton
+125,0,0,2022-10-19,Tottenham Hotspur,Manchester Utd,L,Tottenham,1,1,Manchester United,Tottenham,W,Manchester Utd
+126,0,0,2022-10-23,Tottenham Hotspur,Newcastle Utd,L,Tottenham,1,1,Newcastle United,Tottenham,W,Newcastle Utd
+127,1,1,2022-10-29,Tottenham Hotspur,Bournemouth,W,Tottenham,0,0,Bournemouth,Tottenham,L,Bournemouth
+128,0,0,2022-09-03,West Ham United,Chelsea,L,West Ham,1,0,Chelsea,West Ham,W,Chelsea
+129,0,0,2022-09-18,West Ham United,Everton,L,West Ham,1,1,Everton,West Ham,W,Everton
+130,1,0,2022-10-01,West Ham United,Wolves,W,West Ham,0,0,Wolverhampton Wanderers,West Ham,L,Wolves
+131,1,1,2022-10-09,West Ham United,Fulham,W,West Ham,0,0,Fulham,West Ham,L,Fulham
+132,0,0,2022-10-16,West Ham United,Southampton,D,West Ham,0,0,Southampton,West Ham,D,Southampton
+133,0,0,2022-10-19,West Ham United,Liverpool,L,West Ham,1,1,Liverpool,West Ham,W,Liverpool
+134,1,1,2022-10-24,West Ham United,Bournemouth,W,West Ham,0,0,Bournemouth,West Ham,L,Bournemouth
+135,0,0,2022-10-30,West Ham United,Manchester Utd,L,West Ham,1,1,Manchester United,West Ham,W,Manchester Utd
+136,1,1,2022-09-03,Wolverhampton Wanderers,Southampton,W,Wolves,0,0,Southampton,Wolves,L,Southampton
+137,0,0,2022-09-17,Wolverhampton Wanderers,Manchester City,L,Wolves,1,1,Manchester City,Wolves,W,Manchester City
+138,0,0,2022-10-01,Wolverhampton Wanderers,West Ham,L,Wolves,1,0,West Ham United,Wolves,W,West Ham
+139,0,0,2022-10-08,Wolverhampton Wanderers,Chelsea,L,Wolves,1,1,Chelsea,Wolves,W,Chelsea
+140,1,1,2022-10-15,Wolverhampton Wanderers,Nott'ham Forest,W,Wolves,0,0,Nottingham Forest,Wolves,L,Nottingham Forest
+141,0,0,2022-10-18,Wolverhampton Wanderers,Crystal Palace,L,Wolves,1,1,Crystal Palace,Wolves,W,Crystal Palace
+142,0,0,2022-10-23,Wolverhampton Wanderers,Leicester City,L,Wolves,1,1,Leicester City,Wolves,W,Leicester City
+143,0,0,2022-10-29,Wolverhampton Wanderers,Brentford,D,Wolves,0,0,Brentford,Wolves,D,Brentford
